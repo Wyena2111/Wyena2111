@@ -1,6 +1,6 @@
 <div align="center">
-   <h1 align="center">Hola, Soy Wilver Manuel Yena <span style="color: red;">😊 (Portafolio)</span></h1>
-   <img src="https://i.imgur.com/Wskj8cn.jpeg" width="800">
+   <h1 align="center">Wilver Yenal<span style="color: red;">😊 (Portafolio)</span></h1>
+   <img src="https://github.com/Wyena2111/Wyena2111/blob/main/IMG2.png?raw=true" width="800">
 </div>
 
 
@@ -35,64 +35,42 @@
 <td width="50%">
 <h3 align="center">Análisis de Satisfacción Laboral 📊</h3>
 <div align="center">
-<a href="https://github.com/Wyena2111" target="_blank"><img src="https://i.imgur.com/tIfQItz.png" width="400" alt="Power BI Dashboard"></a>
 <p>
 <a href="https://github.com/Wyena2111" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://github.com/Wyena2111/Wyena2111/blob/main/Screenshot%202025-11-01%20215323.png?raw=true">
 </a>
 </p>
-<p>Dashboard interactivo en <strong>Power BI</strong> que mide la satisfacción de empleados por sede, género y área.  
-Los datos fueron procesados con <strong>Python y SQL</strong> para limpieza y modelado antes de la visualización.</p>
+<p>
+Dashboard interactivo en <strong>Power BI</strong> que mide la satisfacción de empleados por sede, género y área.  
+Los datos fueron procesados con <strong>Python y SQL</strong> para limpieza y modelado antes de la visualización.
+</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Análisis Exploratorio de Datos (EDA) con Python 🐍</h3>
+<h3 align="center">Análisis de Protección Ambiental 🌱</h3>
 <div align="center">
-<a href="https://github.com/Wyena2111" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="EDA Python"></a>
 <p>
-<a href="https://github.com/Wyena2111" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://github.com/Wyena2111/Wyena2111/blob/main/Screenshot%202025-11-01%20215458.png?raw=true">
 </a>
 </p>
-<p>Proyecto de <strong>Análisis Exploratorio de Datos</strong> realizado con <strong>Pandas, Matplotlib y Seaborn</strong>.  
-Incluye visualizaciones descriptivas, correlaciones y limpieza de datos en <strong>Jupyter Notebook</strong>.</p>
+<p>
+🌱 Dashboard sobre plantaciones de especies para la protección ambiental en República Dominicana (2017–2025) 🇩🇴.  
+Creé este dashboard organizando los datos de manera clara para mostrar el impacto de las plantaciones a lo largo del tiempo.
+</p>
 </div>
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Dashboard de Ventas con Excel 📈</h3>
-<div align="center">
-<a href="https://github.com/Wyena2111" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Excel Dashboard"></a>
-<p>
-<a href="https://github.com/Wyena2111" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Dashboard desarrollado en <strong>Microsoft Excel</strong> con tablas dinámicas y segmentación de datos.  
-Permite analizar tendencias de ventas y desempeño por región, producto y período temporal.</p>
-</div>
-</td>
 
-<td width="50%">
-<h3 align="center">SQL Data Cleaning & Reporting 💾</h3>
-<div align="center">
-<a href="https://github.com/Wyena2111" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="SQL project"></a>
-<p>
-<a href="https://github.com/Wyena2111" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Proyecto enfocado en <strong>limpieza, transformación y consulta de datos con SQL</strong>.  
-Incluye ejercicios de creación de vistas, joins, subconsultas y métricas analíticas aplicadas a datasets reales.</p>
-</div>
-</td>
-</tr>
-</table>
+
+
+
+
+
+
+
 
 ---
 
