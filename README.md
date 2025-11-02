@@ -1,6 +1,6 @@
 <div align="center">
    <h1 align="center">Wilver Yena<span style="color: red;">😊 (Portafolio)</span></h1>
-   <img src="https://github.com/Wyena2111/Wyena2111/blob/main/IMG2.png?raw=true" width="800">
+   <img src="https://github.com/Wyena2111/Wyena2111/blob/main/definitva.png?raw=true" width="800">
 </div>
 
 
